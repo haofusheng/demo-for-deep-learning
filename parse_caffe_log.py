@@ -1,3 +1,7 @@
+"""
+parse caffe log.txt and display the performance curve
+
+"""
 from matplotlib import pyplot as plt
 import numpy as np
 
